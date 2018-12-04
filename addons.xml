@@ -152,7 +152,7 @@
 	</extension>
 </addon>
 
-<addon id="skin.aeon.nox.5.kobra" version="1.0.1" name="Aeon Nox Kobra" provider-name="BigNoid-Kobra-Mod">
+<addon id="skin.aeon.nox.5.kobra" version="1.0.2" name="Aeon Nox Kobra" provider-name="BigNoid-Kobra-Mod">
 	<requires>
 		<import addon="xbmc.gui" version="5.12.0"/>
 	</requires>
